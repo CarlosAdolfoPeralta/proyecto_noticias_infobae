@@ -1,6 +1,6 @@
 # Análisis de noticias de Infobae con PLN
 
-Proyecto de aprendizaje que arma un corpus de noticias en español a partir del feed RSS de Infobae
+Proyecto que arma un corpus de noticias en español a partir del feed RSS de Infobae
 y compara distintas técnicas de procesamiento de lenguaje natural (PLN) sobre ese corpus.
 
 ## Pregunta
